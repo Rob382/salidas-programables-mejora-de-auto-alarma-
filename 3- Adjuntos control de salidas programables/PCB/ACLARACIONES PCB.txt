@@ -1,0 +1,11 @@
+El archivo comprimido es un arcivo gerber, es el que se envia para la fabricación y se puede visualizar y modificar
+en distintos softwares.
+
+El archivo con la terminación .json sirve para la edición en la página de easyeda.com (donde fueron diseñados).
+
+También se pueden visualizar con el programa GerberLogic disponible para descarga en:
+https://www.easylogix.de/products_detail.php?prog_id=1
+
+Los archivos pdf son versiones mas sencillas de la misma placa para su serigrafia o planchado tradicional en PCB
+son 4 archivos para elegir el que se adecue mejor al metodo de impresión empleado. Están diseñados para placas
+de una sola capa de cobre.

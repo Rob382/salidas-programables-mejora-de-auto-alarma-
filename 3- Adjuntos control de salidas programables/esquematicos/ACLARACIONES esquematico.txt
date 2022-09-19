@@ -1,0 +1,7 @@
+Se entregan diferentes formatos del mismo esquematico para que puedan ser vistos y editados 
+con el software que mas convenga.
+
+El esquema se diseñó en la página web Easyeda.com, si se requiere volver a modificar para 
+realizar cambios o mejoras se recomienda utilizar esta misma página cargando el archivo con 
+terminación .json o pedir acceso al proyecto al correo jose.roberto.montanes@gmail.com
+
