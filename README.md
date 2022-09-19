@@ -1,5 +1,5 @@
 # Salidas-programables-mejora-de-auto-alarma-
-Este proyecto es el rediseño y mejora del sistema de auto alarma realizado por la empresa, solucionando los problemas de consumo de energía y mejorando el circuito funcional (la parte automática) con un rediseño total.
+En este proyecto yo hice el rediseño (electrónico y programas), así como modificaciones del sistema de auto alarma previamente implementado por la empresa, solucionando los problemas de consumo de energía y mejorando el circuito funcional (la parte automática) con un rediseño total.
 
 El rediseño se concentró principalmente en crear un sistema de salidas programables el cual con una o dos salidas (a elección) del panel de alarma pueda controlar 4 salidas dobles que pueden programarse para actuar de la manera en que se desea.
 
